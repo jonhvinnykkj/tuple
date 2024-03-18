@@ -2,6 +2,7 @@ import turtle
 
 # Configurações iniciais
 t = turtle.Turtle()
+t.speed(2)
 
 # Desenhar o telhado
 t.fillcolor("red")
